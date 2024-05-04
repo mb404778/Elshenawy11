@@ -1,0 +1,32 @@
+/* Start container section */
+h2{
+    font-family: monospace;
+    letter-spacing: 1px;
+}
+
+h4{
+    font-family: monospace;
+    letter-spacing: 1px;
+}
+/* End container section */
+/* Start main section */
+.main{
+    background-color: red;
+    color:  #fff;
+    padding: 7px;
+    transition: all 1.5s ease;
+    text-align: center;
+}
+
+.icon-content{
+    top: 10px;
+    left: 7px;
+    font-size: 18px;
+    color: #000;
+    margin-right: 3px;
+}
+
+.form-control{
+    margin-left: 4px;
+}
+/* End main section */
